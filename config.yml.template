@@ -1,0 +1,16 @@
+---
+user: 
+nation: 
+password: 
+region: 
+# default: current delegate
+delegate: 
+# if test is set to true, [nation] tags will be broken to avoid pings
+# default: false
+test: 
+# template options: $delegate, $region, $date
+title: 
+# template options: $nations
+template_path: ./template.txt
+# default: INFO
+log_level: 
